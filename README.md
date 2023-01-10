@@ -2,7 +2,7 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://www.svgrepo.com/download/452234/java.svg" height="110" alt="Nest Logo" /></a>
 </p>
 
-## Getting Started With MultiplicaAí
+## Getting Started With Pirâmide de Números
 
 > Input an `integer number greater than 0` and press `Enter` to show a pyramid of numbers from 1 to this number. 
 
